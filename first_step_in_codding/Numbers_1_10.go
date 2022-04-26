@@ -1,3 +1,5 @@
+// Write a Go console program that prints the numbers 1 through 10 on separate lines on the console.
+
 package main
 
 import "fmt"
