@@ -1,3 +1,6 @@
+// Write a program that reads an integer entered by the user and prints whether it is even or odd.
+// If even, print "even", if odd, "odd".
+
 package main
 
 import "fmt"
