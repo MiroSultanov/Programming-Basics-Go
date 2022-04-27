@@ -1,3 +1,25 @@
+// Peter wants to buy N video cards, M CPU and P number of RAM. If the number of video cards is greater than that of the processors, it receives a 15% discount on the
+// final bill. The following prices apply:
+// • Video card - BGN 250 / pc.
+// • Processor - 35% of the price of the purchased video cards / pc.
+// • Memory frame - 10% of the price of the purchased video cards / pc.
+// Calculate the amount needed to purchase the materials and calculate whether the budget will be enough.
+
+// Input
+// The entrance consists of four rows:
+// 1. Peter's budget - a real number in the interval [0.00… 100000.00]
+// 2. The number of video cards - an integer in the range [0… 100]
+// 3. The number of processors - an integer in the range [0… 100]
+// 4. The number of memory frames - integer in the interval [0… 100]
+
+// Output
+// 1 line is printed on the console, which should look like this:
+// • If the budget is sufficient:
+// "You have {remaining budget} leva left!"
+// • If the amount exceeds the budget:
+// "Not enough money! You need {necessary amount} left more!"
+// Format the result to the second decimal place.
+
 package main
 
 import "fmt"
