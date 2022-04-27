@@ -1,3 +1,5 @@
+// Write a program that reads two integers entered by the user and prints the larger of the two.
+
 package main
 
 import "fmt"
