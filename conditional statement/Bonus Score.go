@@ -1,3 +1,13 @@
+// An integer is given - the starting number of points. Bonus points are accrued on it according to the rules described below. 
+// Write a program that calculates the bonus points received by the number and the total number of points (number + bonus).
+// • If the number is up to 100 inclusive, the bonus points are 5.
+// • If the number is greater than 100, the bonus points are 20% of the number.
+// • If the number is greater than 1000, the bonus points are 10% of the number.
+
+// • Additional bonus points (accrued separately from the previous ones):
+// o For an even number  + 1 point.
+// o For a number ending in 5  + 2 points.
+
 package main
 
 import "fmt"
