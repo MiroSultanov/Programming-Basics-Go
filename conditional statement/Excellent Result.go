@@ -1,3 +1,5 @@
+// Write a console program that reads a rating (integer) entered by the user and prints "Excellent!" if the score is 5 or higher.
+
 package main
 
 import "fmt"
