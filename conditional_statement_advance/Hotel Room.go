@@ -1,3 +1,14 @@
+// The hotel offers 2 types of rooms: studio and apartment. Write a program that calculates the price for the entire stay for a studio and apartment. 
+// Prices depend on the month of stay:
+// May and October                  June and September               July and August
+// Studio - BGN 50 / night        Studio - BGN 75.20 / night      Studio - BGN 76 / night
+// Apartment - 65 BGN / night     Apartment - 68.70 BGN / night   Apartment - 77 BGN / night
+// The following discounts are also available:
+// • For studio, for more than 7 nights in May and October: 5% discount.
+// • For studio, for more than 14 nights in May and October: 30% discount.
+// • For studio, for more than 14 nights in June and September: 20% discount.
+// • For an apartment, for more than 14 nights, regardless of the month: 10% discount.
+
 package main
 
 import "fmt"
