@@ -1,3 +1,8 @@
+// A student must go to the exam at a certain time. He arrives at the examination room at a certain time of arrival. 
+// It is considered that the student arrived on time if he arrived at the time of the exam or up to half an hour before. 
+// If he arrived more than 30 minutes earlier, he was early. If he came after the exam time, he was late. Write a program that reads exam time and arrival time 
+// and records whether the student arrived on time, was early or late, and by how many hours or minutes was early or late.
+
 package main
 
 import "fmt"
