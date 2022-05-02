@@ -1,3 +1,8 @@
+// Write a program that prints the class of the animal according to its name entered by the user.
+// • dog -> mammal
+// • crocodile, tortoise, snake -> reptile
+// • others -> unknown
+
 package main
 
 import "fmt"
