@@ -1,3 +1,22 @@
+// Summer is very changeable and Victor needs your help. Write a program that, depending on the time of day and the degrees, can recommend Victor what clothes to wear.
+// Your friend has different plans for each stage of the day, which require a different look, you can see them in the table.
+// Exactly two lines are read from the console:
+// • Degrees - an integer in the range [10… 42]
+// • Text, time of day - with options - "Morning", "Afternoon", "Evening"
+// Time of day / degrees
+// 10 <= degrees <= 18           Morning                        Afternoon                       Evening
+//                           Outfit = Sweatshirt                Outfit = Shirt                  Outfit = Shirt
+//                           Shoes = Sneakers                   Shoes = Moccasins               Shoes = Moccasins
+
+// 18 <degrees <= 24         Outfit¬ = Shirt                    Outfit = T-Shirt                Outfit = Shirt
+//                           Shoes = Moccasins                  Shoes = Sandals                 Shoes = Moccasins
+ 
+ 
+// degrees> = 25            Outfit = T-Shirt                    Outfit = Swim Suit              Outfit = Shirt
+//                          Shoes = Sandals                     Shoes = Barefoot                Shoes = Moccasins
+ 
+// To be printed on the console in one line: "It's {degrees} degrees, get your {clothing} and {shoes}."
+
 package main
 
 import "fmt"
