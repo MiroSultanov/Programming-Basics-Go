@@ -1,3 +1,6 @@
+// Write a program that reads an integer entered by the user and prints a day of the week (in English) within [1 ... 7] or prints "Error" 
+// if the number entered is invalid.
+
 package main
 
 import "fmt"
