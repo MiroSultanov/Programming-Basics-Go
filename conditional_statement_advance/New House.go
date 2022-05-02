@@ -1,3 +1,14 @@
+// Marin and Nelly are buying a house not far from Sofia. Nelly loves flowers so much that she convinces you to write a program that will calculate how much it will cost 
+// them, to plant a certain number of flowers and whether the available budget will be enough. Different flowers have different prices.
+// flower                                  Rose    Dahlia    Tulip    Narcissus    Gladiolus
+// Price per piece in BGN                    5      3.80      2.80      3             2.50
+// There are the following discounts:
+// • If Nelly buys more than 80 Roses - 10% discount from the final price
+// • If Nelly buys more than 90 Dahlias - 15% discount from the final price
+// • If Nelly buys more than 80 Tulips - 15% discount from the final price
+// • If Nelly buys less than 120 Narcissus - the price increases by 15%
+// • If Nelly Buys less than 80 Gladiolus - the price increases by 20%
+
 package main
 
 import "fmt"
