@@ -1,3 +1,16 @@
+// Tony and his friends loved to go fishing, they were so passionate about fishing that they decided to go fishing by boat. 
+// The price of renting a boat depends on the season and the number of fishermen.
+// The price depends on the season:
+// • The price for renting the ship in the spring is 3000 BGN.
+// • The price for renting the ship in summer and autumn is 4200 BGN.
+// • The price for renting the ship in winter is 2600 BGN.
+// Depending on its number, the group enjoys a discount:
+// • If the group is up to 6 people inclusive - 10% discount.
+// • If the group is from 7 to 11 people inclusive - 15% discount.
+// • If the group is from 12 upwards - 25% discount.
+// Fishermen enjoy an additional 5% discount if they are an even number unless it is autumn - then they do not have an additional discount.
+// Write a program to calculate whether fishermen will raise enough money.
+
 package main
 
 import "fmt"
