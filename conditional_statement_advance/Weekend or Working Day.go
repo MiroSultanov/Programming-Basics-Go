@@ -1,3 +1,6 @@
+// Write a program that reads the day of the week (text), in English - entered by the user. If the day is a working day, it prints on the console - "Working day", 
+// if it is a day off - "Weekend". If text other than day of the week is entered, print "Error".
+
 package main
 
 import "fmt"
