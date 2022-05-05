@@ -1,3 +1,12 @@
+// Grigor Dimitrov is a tennis player whose next goal is to climb the world tennis rankings for men.
+// During the year, Grisho participates in a certain number of tournaments, and for each tournament receives points that depend on the position on which he ended 
+// in the tournament. There are three options for completing a tournament:
+//  W - If a winner gets 2000 points
+//  F - If a finalist gets 1200 points
+//  SF - If it is semi -finalist receives 720 points
+// Write a program that calculates how many Grigor points will be after playing all tournaments, knowing how many points starts the seasons.
+// Also calculate how many points win from all tournaments played and how many percent of tournaments he has won.
+
 package main
 
 import "fmt"
