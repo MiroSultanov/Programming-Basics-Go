@@ -1,3 +1,9 @@
+// Write a program that reads n-number integers submitted by the user and checks that the sum of the numbers of even positions is equal to the
+// sum of the numbers of odd positions.
+// • If the amounts are equal, print two lines: "Yes" and a new line "Sum =" + the amount;
+// • If the amounts are not equal, print two lines: "No" and a new line "Diff =" + the difference.
+// The difference is calculated in absolute value.
+
 package main
 
 import (
