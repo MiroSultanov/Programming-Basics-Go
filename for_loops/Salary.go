@@ -1,3 +1,10 @@
+// A company boss notices that more and more employees are spending time on sites that distract them.
+// To prevent this, he introduces surprise checks on the open tabs of his employees' browsers.
+// According to the open site, the following fines are imposed in the tab:
+// • "Facebook" -> BGN 150.
+// • "Instagram" -> BGN 100.
+// • "Reddit" -> BGN 50
+
 package main
 
 import "fmt"
