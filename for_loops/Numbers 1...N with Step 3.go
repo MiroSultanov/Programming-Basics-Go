@@ -1,3 +1,5 @@
+// Write a program that reads the number n entered by the user and prints the numbers from 1 to n through 3.
+
 package main
 
 import "fmt"
