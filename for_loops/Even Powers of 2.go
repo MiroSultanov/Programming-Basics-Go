@@ -1,3 +1,5 @@
+// Write a program that reads the number n entered by the user and prints the even degrees 2 ≤ 2n: 20, 22, 24, 26,…, 2n.
+
 package main
 
 import "fmt"
