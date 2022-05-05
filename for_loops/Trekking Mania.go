@@ -1,3 +1,11 @@
+// Climbers from all over Bulgaria gather in groups and mark the next peaks to climb. Depending on the size of the group, the climbers will climb different peaks.
+// • Group of up to 5 people - climb Musala
+// • Group of 6 to 12 people - climb Mont Blanc
+// • Group of 13 to 25 people - climb Kilimanjaro
+// • Group of 26 to 40 people - climb K2
+// • A group of 41 or more people - climb Everest
+// Write a program that calculates the percentage of climbers climbing each peak.
+
 package main
 
 import "fmt"
