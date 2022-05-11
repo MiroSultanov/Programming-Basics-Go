@@ -1,3 +1,6 @@
+// # Vending machine manufacturers wanted to make their machines return as few change coins as possible. 
+// # Write a program that accepts an amount - the rest that needs to be returned and calculates with as few coins as possible.
+
 package main
 
 import (
