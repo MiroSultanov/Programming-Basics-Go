@@ -1,3 +1,23 @@
+// # Jesse has decided to raise money for a trip and asks you to help her find out if she will be able to raise the necessary amount. 
+// # She saves or spends some of her money every day. If she wants to spend more than her cash, she will spend as much as she has and she will have 0 leva left.
+
+// # Input
+// # From the console read:
+// # ⦁ Money needed for the trip - real number;
+// # ⦁ Cash - real number.
+// # Then two lines are read repeatedly:
+// # ⦁ Type of action - text with two options: "spend" or "save";
+// # ⦁ The amount you will save / spend - a real number.
+
+// # Output
+// # The program must be completed in the following cases:
+// # ⦁ If Jesse only spends 5 consecutive days, the console should show:
+// # ⦁ "You can't save the money."
+// # ⦁ "{Total days passed}"
+// # ⦁ If Jesse collects the money for the holiday, the console says:
+// # ⦁ "You saved the money for {total days passed} days."
+
+
 package main
 
 import "fmt"
