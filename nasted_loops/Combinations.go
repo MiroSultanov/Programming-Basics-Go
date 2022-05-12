@@ -1,3 +1,7 @@
+// # Write a program that calculates how many solutions in natural numbers (including zero) the equation has:
+// # x1 + x2 + x3 = n
+// # The number n is an integer and is entered by the console.
+
 package main
 
 import "fmt"
