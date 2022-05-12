@@ -1,3 +1,23 @@
+// # Your task is to write a program that calculates the percentage of tickets for each type of ticket sold: student (student), standard (standard) and child (kid),
+// # for all screenings. You also need to calculate what percentage of the hall is filled for each screening.
+
+// # Input
+// # The input is a series of integers and text:
+// # ⦁ On the first line until you receive the command "Finish" - movie name - text
+// # ⦁ In the second row - the free seats in the hall for each screening - integer [1… 100]
+// # ⦁ For each film, one line is read until the vacancies in the hall are exhausted or until the "End" command is received:
+// # ⦁ Type of ticket purchased - text ("student", "standard", "kid")
+
+// # Output
+// # The following lines must be printed on the console:
+// # ⦁ After each film, print what percentage of the cinema is full
+// # "{movie name} - {percentage of hall full}% full."
+// # ⦁ When receiving the "Finish" command, print four lines:
+// # ⦁ "Total tickets: {total number of tickets purchased for all films}"
+// # } "{Percentage of student tickets}% student tickets."
+// # ⦁ "{percentage of standard tickets}% standard tickets."
+// # } "{Percentage of children's tickets}% kids tickets."
+
 package main
 
 import "fmt"
