@@ -1,3 +1,8 @@
+// # Write a program that reads two six-digit integers from the console. The first number entered will always be less than the second. 
+// # On the console to be printed on 1, line separated by a space, all numbers that are between the two numbers read by the console and meet the condition
+// # that the sum of the digits of even and odd positions are equal. 
+// # If there are no numbers that meet the console condition, no result is displayed.
+
 package main
 
 
