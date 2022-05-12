@@ -1,3 +1,6 @@
+// # Print on the console the multiplication table for the numbers 1 to 10 in the format:
+// # "{first multiplier} * {second multiplier} = {result}".
+
 package main
 
 import "fmt"
