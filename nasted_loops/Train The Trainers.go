@@ -1,3 +1,14 @@
+// # The "Train the trainers" course is coming to an end and the final evaluation is approaching. Your task is to help the jury that will 
+// # evaluate the presentations by writing a program in which to calculate the average grade from the performance of each presentation by a student, 
+// # and finally - the average success of all of them.
+// # From the console in the first row is read the number of people on the jury n - an integer.
+// # Then the name of the presentation is read on a separate line - text.
+// # For each presentation on a new line read n - the number of marks - a real number.
+// # After calculating the average score for a specific presentation, the following is printed on the console:
+// #  "{presentation name} - {average grade}."
+// # After receiving the "Finish" command, the console reads "Student's final assessment is {average of all presentations}." and the program ends.
+// # All grades must be formatted to the second decimal place.
+
 package main
 
 import "fmt"
